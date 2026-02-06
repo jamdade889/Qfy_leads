@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import ".styles/About.css"; // Import the CSS file
+
 
 const About: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
